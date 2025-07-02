@@ -1,0 +1,21 @@
+{
+  "name": "discord-kod-paylasim-botu",
+  "version": "1.0.0",
+  "description": "Discord sunucuları için efsane kod paylaşım botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["discord", "bot", "kod", "paylaşım", "türkçe"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+} 
